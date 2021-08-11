@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://localize-img.justmote.me/sitemap.xml
